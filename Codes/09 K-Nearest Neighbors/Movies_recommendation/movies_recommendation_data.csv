@@ -1,0 +1,31 @@
+Movie ID,Movie Name,IMDB Rating,Biography,Drama,Thriller,Comedy,Crime,Mystery,History,Label
+58,The Imitation Game,8,1,1,1,0,0,0,0,0
+8,Ex Machina,7.7,0,1,0,0,0,1,0,0
+46,A Beautiful Mind,8.2,1,1,0,0,0,0,0,0
+62,Good Will Hunting,8.3,0,1,0,0,0,0,0,0
+97,Forrest Gump,8.8,0,1,0,0,0,0,0,0
+98,21,6.8,0,1,0,0,1,0,1,0
+31,Gifted,7.6,0,1,0,0,0,0,0,0
+3,Travelling Salesman,5.9,0,1,0,0,0,1,0,0
+51,Avatar,7.9,0,0,0,0,0,0,0,0
+47,The Karate Kid,7.2,0,1,0,0,0,0,0,0
+50,A Brilliant Young Mind,7.2,0,1,0,0,0,0,0,0
+49,A Time To Kill,7.4,0,1,1,0,1,0,0,0
+30,Interstellar,8.6,0,1,0,0,0,0,0,0
+94,The Wolf of Wall Street,8.2,1,0,0,1,1,0,0,0
+6,Black Panther,7.4,0,0,0,0,0,0,0,0
+73,Inception,8.8,0,0,0,0,0,0,0,0
+44,The Wind Rises,7.8,1,1,0,0,0,0,0,0
+65,Spirited Away,8.6,0,0,0,0,0,0,0,0
+48,Finding Forrester,7.3,0,1,0,0,0,0,0,0
+27,The Fountain,7.3,0,0,0,0,0,0,0,0
+57,The DaVinci Code,6.6,0,0,1,0,0,1,0,0
+57,Stand and Deliver,7.3,0,1,0,0,0,0,0,0
+14,The Terminator,8,0,0,0,0,0,0,0,0
+69,21 Jump Street,7.2,0,0,0,1,1,0,0,0
+98,The Avengers,8.1,0,0,0,0,0,0,0,0
+17,Thor: Ragnarok,7.9,0,0,0,1,0,0,0,0
+12,Spirit: Stallion of the Cimarron,7.1,0,0,0,0,0,0,0,0
+1,Hacksaw Ridge,8.2,1,1,0,0,0,0,1,0
+86,12 Years a Slave,8.1,1,1,0,0,0,0,1,0
+46,Queen of Katwe,7.4,1,1,0,0,0,0,0,0

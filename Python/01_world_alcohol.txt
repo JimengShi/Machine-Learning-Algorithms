@@ -1,0 +1,998 @@
+Year,WHO region,Country,Beverage Types,Display Value
+1986,Western Pacific,Viet Nam,Wine,0
+1986,Americas,Uruguay,Other,0.5
+1985,Africa,Cte d'Ivoire,Wine,1.62
+1986,Americas,Colombia,Beer,4.27
+1987,Americas,Saint Kitts and Nevis,Beer,1.98
+1987,Americas,Guatemala,Other,0
+1987,Africa,Mauritius,Wine,0.13
+1985,Africa,Angola,Spirits,0.39
+1986,Americas,Antigua and Barbuda,Spirits,1.55
+1984,Africa,Nigeria,Other,6.1
+1987,Africa,Botswana,Wine,0.2
+1989,Americas,Guatemala,Beer,0.62
+1985,Western Pacific,Lao People's Democratic Republic,Beer,0
+1984,Eastern Mediterranean,Afghanistan,Other,0
+1985,Western Pacific,Viet Nam,Spirits,0.05
+1987,Africa,Guinea-Bissau,Wine,0.07
+1984,Americas,Costa Rica,Wine,0.06
+1989,Africa,Seychelles,Beer,2.23
+1984,Europe,Norway,Spirits,1.62
+1984,Africa,Kenya,Beer,1.08
+1986,South-East Asia,Myanmar,Wine,0
+1989,Americas,Costa Rica,Spirits,4.51
+1984,Europe,Romania,Spirits,2.67
+1984,Europe,Turkey,Beer,0.44
+1985,Africa,Comoros,Other,
+1984,Eastern Mediterranean,Tunisia,Other,0
+1985,Europe,United Kingdom of Great Britain and Northern Ireland,Wine,1.36
+1984,Eastern Mediterranean,Bahrain,Beer,2.22
+1987,Western Pacific,Viet Nam,Beer,0.11
+1986,Europe,Italy,Other,
+1986,Africa,Sierra Leone,Other,4.48
+1986,Western Pacific,Micronesia (Federated States of),Wine,0
+1989,Africa,Mauritius,Beer,1.6
+1985,Africa,Mauritania,Other,0
+1986,Europe,Russian Federation,Wine,0.8
+1985,Americas,Saint Kitts and Nevis,Spirits,2.24
+1987,Eastern Mediterranean,Egypt,Beer,0.07
+1986,Europe,Sweden,Beer,3.04
+1987,Eastern Mediterranean,Qatar,Other,0
+1987,Africa,Burkina Faso,Spirits,0.01
+1987,Europe,Austria,Spirits,1.9
+1986,Europe,Czech Republic,Beer,6.82
+1984,Europe,Ukraine,Spirits,3.06
+1984,Western Pacific,China,Wine,0.03
+1985,Europe,Lithuania,Other,
+1989,Africa,Zimbabwe,Beer,0.19
+1987,Americas,Trinidad and Tobago,Spirits,2.26
+1986,Americas,Mexico,Other,0.04
+1987,Americas,Nicaragua,Beer,0.7
+1986,Europe,Malta,Wine,1.49
+1985,Europe,Switzerland,Other,0.3
+1987,Europe,Finland,Beer,3.88
+1986,Eastern Mediterranean,Saudi Arabia,Wine,0
+1984,Eastern Mediterranean,Kuwait,Beer,0
+1984,Americas,El Salvador,Spirits,1.81
+1989,Americas,Suriname,Wine,0.04
+1987,Western Pacific,Viet Nam,Wine,0
+1989,Europe,Croatia,Wine,5.1
+1984,Eastern Mediterranean,Somalia,Spirits,0
+1989,Eastern Mediterranean,Syrian Arab Republic,Other,0
+1987,Eastern Mediterranean,Iran (Islamic Republic of),Other,0
+1984,Western Pacific,Papua New Guinea,Spirits,0.08
+1987,Americas,Suriname,Other,0
+1985,Eastern Mediterranean,Libya,Other,0
+1989,Americas,Bolivia (Plurinational State of),Beer,1.26
+1989,Eastern Mediterranean,Somalia,Beer,0
+1987,Eastern Mediterranean,Iraq,Wine,0.01
+1989,Africa,Namibia,Beer,0
+1989,Africa,Uganda,Beer,0.12
+1986,Africa,Togo,Spirits,0.42
+1986,Africa,Madagascar,Spirits,1.02
+1985,Africa,Mali,Other,0.57
+1987,Africa,Mauritania,Other,0
+1986,Eastern Mediterranean,Pakistan,Other,0.01
+1986,Americas,Bolivia (Plurinational State of),Spirits,2.06
+1989,Eastern Mediterranean,Afghanistan,Other,0
+1985,Africa,Comoros,Beer,0.02
+1985,Africa,Cameroon,Spirits,0.01
+1989,Americas,Jamaica,Other,0
+1989,Europe,Finland,Other,2.09
+1985,Africa,Malawi,Other,0.84
+1985,Europe,Netherlands,Wine,2.54
+1987,Europe,Ireland,Spirits,2.25
+1986,Europe,Ukraine,Other,
+1986,South-East Asia,Sri Lanka,Other,0
+1985,Africa,Democratic Republic of the Congo,Wine,0.01
+1986,Americas,Bahamas,Wine,1.83
+1989,Eastern Mediterranean,Iraq,Wine,0.01
+1987,Eastern Mediterranean,Lebanon,Beer,0.42
+1986,Eastern Mediterranean,Lebanon,Wine,0.7
+1989,Africa,Malawi,Wine,0.01
+1989,Europe,Bulgaria,Beer,4.43
+1986,Africa,Eritrea,Spirits,0
+1987,Africa,Madagascar,Other,
+1985,Europe,Ukraine,Spirits,3.06
+1984,Africa,Niger,Other,0
+1985,Europe,Luxembourg,Wine,7.38
+1984,South-East Asia,Indonesia,Wine,0
+1984,Africa,Equatorial Guinea,Wine,0
+1985,South-East Asia,Democratic People's Republic of Korea,Wine,0
+1987,Americas,Chile,Beer,1.49
+1985,Eastern Mediterranean,Kuwait,Other,
+1989,Americas,Nicaragua,Wine,0.01
+1989,Africa,Central African Republic,Spirits,0.03
+1986,Europe,Spain,Other,0
+1986,Africa,Madagascar,Beer,0.19
+1989,Eastern Mediterranean,Afghanistan,Beer,0
+1986,Africa,Gambia,Other,1.96
+1987,Africa,Ghana,Beer,0.26
+1984,Americas,Chile,Wine,6.36
+1985,Americas,Brazil,Beer,1.42
+1986,Americas,Nicaragua,Spirits,2.73
+1987,Europe,Portugal,Spirits,0.79
+1987,Eastern Mediterranean,Bahrain,Beer,2.02
+1989,Africa,Burundi,Beer,2.84
+1986,Europe,Belgium,Beer,7.36
+1987,Eastern Mediterranean,Iraq,Spirits,0.34
+1984,Africa,Guinea-Bissau,Other,1.64
+1985,Africa,Democratic Republic of the Congo,Spirits,0.01
+1985,Americas,Chile,Beer,1.17
+1987,Americas,Paraguay,Wine,0.36
+1985,Eastern Mediterranean,Pakistan,Wine,0
+1987,Eastern Mediterranean,Lebanon,Other,0
+1989,Europe,Sweden,Beer,3.55
+1985,Europe,Hungary,Spirits,7.01
+1989,Europe,Greece,Wine,4.12
+1985,Europe,Belgium,Wine,3.08
+1984,South-East Asia,India,Spirits,1.14
+1984,Africa,Gambia,Other,1.02
+1989,Europe,Kyrgyzstan,Wine,0.72
+1987,Africa,Zimbabwe,Spirits,3.44
+1986,Americas,Bolivia (Plurinational State of),Beer,1.14
+1984,Africa,Burundi,Beer,2.6
+1989,Europe,Belgium,Beer,7.01
+1985,Europe,France,Spirits,2.7
+1984,Eastern Mediterranean,Saudi Arabia,Spirits,0.01
+1987,Africa,Namibia,Wine,0
+1986,Africa,Zambia,Wine,0.01
+1989,Africa,Angola,Other,0
+1989,Africa,Burkina Faso,Spirits,0
+1987,Europe,Israel,Beer,0.96
+1986,Africa,Gambia,Wine,0.09
+1987,Americas,Antigua and Barbuda,Spirits,1.55
+1987,Europe,Ireland,Beer,7.49
+1986,Africa,Uganda,Wine,0
+1987,Africa,Swaziland,Beer,0
+1984,Americas,Canada,Spirits,3.35
+1985,Western Pacific,Cambodia,Other,
+1989,Europe,Czech Republic,Other,
+1986,Africa,Cabo Verde,Spirits,0.44
+1989,Eastern Mediterranean,United Arab Emirates,Spirits,3.69
+1989,Americas,Peru,Spirits,2.99
+1987,Americas,Costa Rica,Beer,0.83
+1985,Europe,Czech Republic,Spirits,4.61
+1987,Europe,Belgium,Beer,7.42
+1986,Americas,Saint Kitts and Nevis,Beer,1.25
+1985,Europe,Portugal,Spirits,0.54
+1985,Western Pacific,Solomon Islands,Other,0
+1985,Africa,United Republic of Tanzania,Spirits,0.14
+1985,Africa,Chad,Beer,0.34
+1984,Americas,Cuba,Spirits,2.06
+1989,Americas,Trinidad and Tobago,Beer,2.27
+1989,Americas,Guyana,Spirits,8.9
+1984,Americas,Costa Rica,Beer,0.58
+1985,Western Pacific,Mongolia,Other,0
+1984,Eastern Mediterranean,Iraq,Wine,0.01
+1987,Americas,Saint Kitts and Nevis,Wine,0.43
+1987,Europe,Ukraine,Beer,1.45
+1986,Europe,Norway,Other,0
+1987,Eastern Mediterranean,Iran (Islamic Republic of),Spirits,0
+1987,Europe,Israel,Spirits,0.74
+1986,Western Pacific,Australia,Spirits,1.57
+1984,Africa,Sao Tome and Principe,Spirits,0.01
+1987,Americas,Peru,Beer,3.12
+1984,Europe,Spain,Spirits,3.68
+1985,Europe,Greece,Spirits,3.49
+1989,Eastern Mediterranean,Bahrain,Spirits,3.56
+1985,Africa,Zambia,Other,2.07
+1984,Europe,Slovenia,Beer,3.42
+1987,Africa,Zimbabwe,Wine,0.03
+1989,Africa,Benin,Beer,0.99
+1984,Africa,Algeria,Spirits,0.01
+1986,Africa,Togo,Beer,2.21
+1987,Africa,Chad,Other,0
+1986,Americas,Venezuela (Bolivarian Republic of),Wine,0.13
+1987,Americas,Ecuador,Wine,0.05
+1985,Europe,Iceland,Beer,1.16
+1989,Africa,Liberia,Beer,0.42
+1989,Western Pacific,Viet Nam,Spirits,0.03
+1985,Eastern Mediterranean,Yemen,Wine,0
+1987,Eastern Mediterranean,Sudan,Beer,0
+1989,Europe,Belarus,Spirits,4.81
+1985,Europe,Israel,Other,0.16
+1985,Eastern Mediterranean,Somalia,Beer,0.01
+1989,Eastern Mediterranean,Syrian Arab Republic,Spirits,0.11
+1986,Europe,Cyprus,Beer,2.96
+1989,Africa,Swaziland,Beer,0
+1987,Africa,Madagascar,Spirits,0.96
+1989,Europe,France,Wine,10.24
+1987,Africa,Gambia,Beer,0.07
+1989,Americas,United States of America,Other,
+1989,Africa,Cabo Verde,Wine,1.69
+1989,Americas,Trinidad and Tobago,Other,0.01
+1986,Western Pacific,Vanuatu,Wine,0.64
+1985,South-East Asia,Bangladesh,Spirits,0
+1984,Africa,Botswana,Spirits,0.28
+1987,Western Pacific,Philippines,Wine,0.01
+1985,Europe,Slovakia,Spirits,4.5
+1987,Americas,United States of America,Spirits,3.1
+1989,Eastern Mediterranean,Saudi Arabia,Spirits,0
+1989,Europe,Poland,Spirits,6.08
+1985,South-East Asia,Myanmar,Beer,0.01
+1989,Africa,Senegal,Beer,0.28
+1986,Eastern Mediterranean,Syrian Arab Republic,Other,0
+1984,Europe,Romania,Beer,2.94
+1987,Americas,Honduras,Beer,1.02
+1985,Eastern Mediterranean,Qatar,Spirits,1.94
+1986,South-East Asia,Bhutan,Spirits,0
+1987,Western Pacific,Fiji,Other,
+1989,Europe,Bulgaria,Wine,3.02
+1989,Europe,Slovenia,Beer,2.72
+1987,Americas,Belize,Spirits,3.04
+1984,Africa,Lesotho,Spirits,0.44
+1985,Western Pacific,Singapore,Beer,1.01
+1985,Europe,Ukraine,Other,
+1986,Africa,Guinea,Beer,0.07
+1987,Africa,Angola,Spirits,0.48
+1987,Western Pacific,Brunei Darussalam,Wine,0.15
+1987,Africa,Algeria,Beer,0.17
+1985,Africa,Congo,Other,2.76
+1989,Europe,Hungary,Other,
+1987,Western Pacific,Vanuatu,Spirits,0.18
+1985,Africa,Mauritius,Beer,1.12
+1986,Western Pacific,Solomon Islands,Spirits,0.07
+1985,Africa,Central African Republic,Wine,0.43
+1987,Africa,Guinea,Beer,0.08
+1986,South-East Asia,Thailand,Spirits,2.32
+1987,Africa,Algeria,Spirits,0.01
+1985,South-East Asia,Sri Lanka,Wine,0
+1985,Europe,Lithuania,Wine,
+1984,Africa,Mauritius,Spirits,1.74
+1986,Europe,United Kingdom of Great Britain and Northern Ireland,Beer,6.73
+1989,Eastern Mediterranean,Iran (Islamic Republic of),Beer,0
+1985,Eastern Mediterranean,Djibouti,Beer,0.5
+1987,Americas,Nicaragua,Spirits,2.75
+1984,Eastern Mediterranean,Libya,Beer,0
+1989,Africa,Lesotho,Spirits,0.36
+1989,Africa,Gabon,Beer,6.49
+1989,Africa,Comoros,Wine,0.09
+1986,Americas,Dominican Republic,Beer,1.24
+1987,Africa,Lesotho,Beer,0.75
+1986,South-East Asia,Indonesia,Beer,0.03
+1987,Africa,Congo,Wine,0.01
+1984,South-East Asia,Sri Lanka,Spirits,0.25
+1986,Western Pacific,Australia,Wine,3.34
+1986,Europe,Norway,Spirits,1.61
+1987,Africa,Democratic Republic of the Congo,Beer,0.59
+1987,South-East Asia,Indonesia,Spirits,0.03
+1985,Americas,Bahamas,Wine,1.9
+1987,Western Pacific,China,Other,0
+1984,Americas,Suriname,Other,0
+1986,Americas,Bahamas,Other,0.03
+1984,Africa,Lesotho,Beer,1.22
+1985,Eastern Mediterranean,Morocco,Wine,0.25
+1987,Europe,Malta,Beer,2.36
+1989,Africa,Malawi,Spirits,0.2
+1989,Europe,Italy,Spirits,1.32
+1984,Europe,Belarus,Wine,
+1985,Africa,Zambia,Wine,0.05
+1984,Western Pacific,New Zealand,Spirits,2.3
+1986,Africa,Algeria,Wine,0.1
+1987,Western Pacific,Solomon Islands,Beer,0.58
+1989,Europe,Denmark,Spirits,1.65
+1989,Americas,Nicaragua,Spirits,1.79
+1989,Americas,Canada,Wine,1.27
+1986,Western Pacific,Micronesia (Federated States of),Other,0
+1984,Africa,Cameroon,Wine,0.08
+1984,Americas,Trinidad and Tobago,Spirits,3.82
+1985,Europe,Turkey,Other,0
+1989,Africa,Zambia,Wine,0
+1986,Western Pacific,Samoa,Other,0
+1987,Americas,Colombia,Beer,4.36
+1989,Americas,Peru,Beer,1.89
+1984,Americas,Jamaica,Other,0
+1986,South-East Asia,Bangladesh,Wine,0
+1989,Africa,Botswana,Other,1.75
+1989,Eastern Mediterranean,Kuwait,Spirits,0
+1989,Europe,Russian Federation,Other,0.52
+1986,Eastern Mediterranean,Pakistan,Beer,0.01
+1986,Eastern Mediterranean,Pakistan,Spirits,0
+1989,Western Pacific,New Zealand,Other,0.03
+1987,Eastern Mediterranean,United Arab Emirates,Wine,0.21
+1986,Africa,Equatorial Guinea,Spirits,0
+1985,Africa,Gabon,Beer,8.33
+1986,Africa,Senegal,Spirits,0.02
+1987,Europe,Kyrgyzstan,Wine,0.71
+1984,Africa,Comoros,Other,
+1989,Americas,Uruguay,Wine,3.72
+1985,Americas,Argentina,Other,0
+1985,Africa,Madagascar,Wine,0.19
+1984,Europe,Netherlands,Other,0
+1987,Eastern Mediterranean,Morocco,Other,0
+1984,Eastern Mediterranean,Oman,Other,0
+1989,Americas,Bolivia (Plurinational State of),Spirits,1.71
+1989,Western Pacific,Fiji,Wine,0.13
+1984,Americas,Colombia,Other,0
+1987,Western Pacific,Kiribati,Beer,0.49
+1984,South-East Asia,Bangladesh,Beer,0
+1984,Western Pacific,Mongolia,Other,0
+1989,Africa,Liberia,Spirits,5.16
+1984,Eastern Mediterranean,Somalia,Wine,0
+1987,Western Pacific,Kiribati,Spirits,0.11
+1984,Africa,Senegal,Spirits,0.05
+1984,South-East Asia,Bhutan,Spirits,0
+1986,Eastern Mediterranean,Qatar,Spirits,1.98
+1985,Africa,Uganda,Wine,0
+1984,Europe,Albania,Spirits,0.9
+1987,South-East Asia,Nepal,Other,0
+1987,South-East Asia,Bangladesh,Beer,0
+1987,Western Pacific,Malaysia,Wine,0.03
+1986,Eastern Mediterranean,Tunisia,Spirits,0.19
+1989,Europe,Israel,Beer,0.87
+1989,Africa,Cte d'Ivoire,Beer,0.33
+1987,Europe,Latvia,Other,0
+1985,Eastern Mediterranean,Pakistan,Other,0.01
+1985,Western Pacific,Australia,Beer,7.73
+1984,Western Pacific,Kiribati,Other,0
+1987,Europe,Cyprus,Other,0
+1985,Americas,Haiti,Beer,0
+1987,Europe,Belarus,Other,
+1985,Western Pacific,China,Spirits,1.84
+1986,Europe,Kyrgyzstan,Spirits,2
+1985,Europe,Portugal,Wine,10.9
+1985,South-East Asia,Bangladesh,Other,0
+1987,Africa,Sierra Leone,Spirits,0.02
+1989,Americas,Suriname,Other,0
+1985,Africa,Zambia,Beer,0.97
+1986,Americas,Costa Rica,Wine,0.07
+1986,Western Pacific,Lao People's Democratic Republic,Wine,0
+1987,Western Pacific,Fiji,Beer,1.51
+1986,Africa,Swaziland,Wine,0
+1986,Western Pacific,Samoa,Beer,1.51
+1989,Europe,Spain,Other,0
+1989,Africa,South Africa,Spirits,1.8
+1986,Africa,Chad,Spirits,0.01
+1985,Western Pacific,Republic of Korea,Other,7
+1985,Americas,Haiti,Other,0
+1987,Africa,Liberia,Beer,0.46
+1986,Africa,Gabon,Wine,5
+1985,Western Pacific,Philippines,Beer,1.62
+1987,Western Pacific,Fiji,Wine,0.11
+1987,Americas,Venezuela (Bolivarian Republic of),Other,
+1984,Americas,Canada,Beer,5
+1986,Europe,Portugal,Beer,3
+1986,Africa,Mauritania,Other,0
+1985,Africa,Sao Tome and Principe,Beer,0
+1984,Americas,Guyana,Other,0
+1987,Western Pacific,Mongolia,Wine,0
+1986,Europe,Albania,Spirits,0.57
+1984,South-East Asia,Democratic People's Republic of Korea,Spirits,2.96
+1985,Africa,Namibia,Other,0.27
+1984,Europe,Slovenia,Other,0
+1989,Eastern Mediterranean,Morocco,Beer,0.33
+1986,Europe,Italy,Spirits,1.48
+1985,Western Pacific,Micronesia (Federated States of),Beer,0
+1984,Eastern Mediterranean,Qatar,Wine,0
+1985,Americas,Honduras,Spirits,0.94
+1984,Eastern Mediterranean,Morocco,Spirits,0.02
+1987,Americas,Haiti,Spirits,5.09
+1985,Europe,Poland,Other,
+1987,Africa,Liberia,Spirits,4.39
+1987,Eastern Mediterranean,Pakistan,Spirits,0
+1984,Americas,Paraguay,Spirits,4.91
+1985,Africa,Liberia,Other,
+1985,Eastern Mediterranean,Bahrain,Other,0
+1984,Western Pacific,Japan,Wine,0.09
+1985,Africa,Kenya,Beer,1.34
+1986,South-East Asia,Thailand,Other,0
+1986,Africa,Mauritius,Wine,0.11
+1985,Africa,Sao Tome and Principe,Other,0
+1989,Americas,Venezuela (Bolivarian Republic of),Wine,0.08
+1984,South-East Asia,Nepal,Wine,0
+1985,Africa,Benin,Other,0
+1989,Eastern Mediterranean,Egypt,Wine,0.01
+1987,Africa,Malawi,Wine,0.01
+1987,Eastern Mediterranean,Afghanistan,Wine,0
+1984,Europe,Russian Federation,Spirits,4.77
+1984,Western Pacific,Cambodia,Wine,0
+1984,Americas,Peru,Wine,0.11
+1984,Americas,El Salvador,Other,
+1987,Europe,Ireland,Other,0.65
+1986,Africa,Mozambique,Beer,0.18
+1984,Africa,Zambia,Other,1.9
+1987,Africa,Ethiopia,Beer,0.54
+1985,Eastern Mediterranean,Libya,Spirits,0
+1989,Africa,Zambia,Spirits,0.2
+1985,Europe,Bulgaria,Spirits,4.08
+1989,Africa,Ethiopia,Spirits,0.09
+1987,Eastern Mediterranean,United Arab Emirates,Spirits,4.54
+1986,Africa,Ghana,Spirits,0.02
+1984,Africa,Eritrea,Wine,0
+1987,Africa,Guinea,Other,
+1985,Europe,Italy,Beer,1.37
+1989,South-East Asia,Bhutan,Other,
+1986,Europe,Denmark,Other,
+1987,Western Pacific,Singapore,Other,0.06
+1989,Americas,Chile,Beer,1.63
+1984,Americas,Ecuador,Wine,0.02
+1987,Western Pacific,Japan,Spirits,2.81
+1989,Europe,Kyrgyzstan,Other,0
+1987,Europe,Czech Republic,Other,
+1987,Africa,Mali,Spirits,0
+1989,Americas,Bolivia (Plurinational State of),Other,0
+1984,Western Pacific,Cambodia,Spirits,0.3
+1987,Western Pacific,Samoa,Spirits,0.01
+1985,South-East Asia,Myanmar,Spirits,0.29
+1989,Western Pacific,Cambodia,Other,
+1985,Americas,Mexico,Wine,0.06
+1985,Europe,Lithuania,Beer,
+1985,Americas,Argentina,Spirits,1.45
+1986,Americas,Uruguay,Wine,3.3
+1986,Africa,Niger,Spirits,0.01
+1985,Europe,Romania,Spirits,2.65
+1985,Americas,Venezuela (Bolivarian Republic of),Wine,0.14
+1985,Africa,Eritrea,Spirits,0
+1987,Eastern Mediterranean,Saudi Arabia,Spirits,0
+1984,Eastern Mediterranean,Iran (Islamic Republic of),Wine,0
+1987,Europe,Russian Federation,Beer,1.18
+1987,Africa,Guinea,Spirits,0.08
+1985,Eastern Mediterranean,Syrian Arab Republic,Spirits,0.15
+1986,Africa,Angola,Beer,0.9
+1986,Europe,Finland,Wine,0.88
+1986,Africa,Zambia,Spirits,0.02
+1989,Europe,Greece,Spirits,3.56
+1984,Americas,Uruguay,Wine,4.42
+1987,Americas,Guatemala,Spirits,1.95
+1989,Africa,Mali,Wine,0.01
+1985,Western Pacific,Brunei Darussalam,Spirits,0.48
+1987,Africa,Kenya,Wine,0
+1987,Western Pacific,Vanuatu,Beer,0.67
+1986,Eastern Mediterranean,Morocco,Beer,0.35
+1989,South-East Asia,Nepal,Wine,0
+1987,Africa,Democratic Republic of the Congo,Other,1.75
+1985,Western Pacific,Viet Nam,Beer,0.12
+1984,Western Pacific,Solomon Islands,Wine,0.04
+1984,Europe,Cyprus,Other,0
+1985,Western Pacific,Solomon Islands,Beer,1.01
+1986,Western Pacific,Singapore,Other,0.07
+1985,Western Pacific,New Zealand,Beer,7.58
+1987,Europe,Slovakia,Other,0
+1987,Americas,Belize,Wine,0.18
+1989,Americas,Jamaica,Wine,0.06
+1989,Western Pacific,Kiribati,Spirits,0.06
+1989,Americas,Dominican Republic,Wine,0.04
+1987,Eastern Mediterranean,Lebanon,Spirits,2.61
+1985,Eastern Mediterranean,Saudi Arabia,Beer,0.25
+1987,Americas,Bahamas,Spirits,7.86
+1984,Europe,United Kingdom of Great Britain and Northern Ireland,Other,0
+1985,Africa,Mauritius,Wine,0.05
+1989,Western Pacific,Vanuatu,Beer,0.65
+1984,Americas,Guyana,Wine,0
+1984,Eastern Mediterranean,Pakistan,Wine,0
+1987,Africa,Cte d'Ivoire,Other,0.97
+1984,Eastern Mediterranean,Djibouti,Beer,0.45
+1985,Americas,Panama,Spirits,2.09
+1989,Western Pacific,Solomon Islands,Spirits,0.04
+1984,Africa,Mozambique,Wine,0.01
+1984,Western Pacific,New Zealand,Beer,7.72
+1985,Americas,Dominican Republic,Other,0
+1989,Europe,Croatia,Beer,2.87
+1985,Western Pacific,Papua New Guinea,Other,0
+1985,Europe,Cyprus,Spirits,3.21
+1987,South-East Asia,Bhutan,Wine,0
+1985,Africa,Swaziland,Wine,1.03
+1987,Europe,Netherlands,Beer,5.18
+1984,Europe,Austria,Spirits,1.9
+1985,Africa,Gabon,Other,
+1987,Eastern Mediterranean,Oman,Beer,0.26
+1989,Americas,Uruguay,Beer,1.45
+1989,Eastern Mediterranean,Libya,Wine,0
+1989,Eastern Mediterranean,Saudi Arabia,Wine,0
+1985,Africa,Equatorial Guinea,Wine,0
+1985,Europe,Cyprus,Other,0
+1984,Eastern Mediterranean,Bahrain,Wine,0.56
+1984,Americas,Bolivia (Plurinational State of),Wine,0.09
+1989,Americas,Suriname,Beer,2.1
+1987,South-East Asia,India,Wine,0
+1987,Europe,Germany,Other,
+1984,Eastern Mediterranean,Syrian Arab Republic,Spirits,0.14
+1984,Americas,El Salvador,Wine,0.04
+1984,Africa,Democratic Republic of the Congo,Other,1.83
+1985,South-East Asia,Myanmar,Other,0
+1985,Africa,Eritrea,Other,0.39
+1986,Americas,Costa Rica,Other,0
+1985,Africa,Congo,Spirits,0.26
+1986,Europe,Germany,Beer,8.68
+1984,Americas,Suriname,Beer,2.95
+1987,Eastern Mediterranean,Yemen,Wine,0
+1989,Americas,Costa Rica,Wine,0.1
+1987,Africa,Swaziland,Spirits,1.32
+1985,South-East Asia,Sri Lanka,Other,0
+1985,South-East Asia,Democratic People's Republic of Korea,Other,
+1989,Europe,Ukraine,Beer,1.65
+1989,Africa,Zambia,Other,2.16
+1984,Europe,Austria,Wine,5.1
+1985,Americas,Cuba,Spirits,2.22
+1987,Western Pacific,Solomon Islands,Spirits,0.06
+1987,Europe,Lithuania,Beer,
+1987,Europe,Austria,Beer,6.9
+1986,Europe,Luxembourg,Wine,6.97
+1985,Americas,Cuba,Other,
+1985,Americas,Paraguay,Wine,0.36
+1989,Europe,Denmark,Wine,2.55
+1987,Americas,Belize,Beer,1.41
+1986,South-East Asia,Nepal,Beer,0.01
+1986,Africa,United Republic of Tanzania,Beer,0.25
+1987,Americas,El Salvador,Other,
+1989,Western Pacific,Vanuatu,Spirits,0.54
+1984,Africa,Burkina Faso,Other,2.93
+1986,Eastern Mediterranean,Yemen,Wine,0
+1987,Americas,Haiti,Beer,0.01
+1984,Americas,Costa Rica,Other,0.01
+1989,Africa,Eritrea,Other,0.21
+1987,Western Pacific,Singapore,Spirits,0.64
+1986,Eastern Mediterranean,Tunisia,Beer,0.38
+1986,Eastern Mediterranean,Iraq,Spirits,0.45
+1987,Americas,Dominican Republic,Beer,1.32
+1986,Eastern Mediterranean,Saudi Arabia,Spirits,0.01
+1989,Europe,Switzerland,Beer,4.17
+1985,Africa,South Africa,Wine,1.73
+1985,Africa,United Republic of Tanzania,Other,7.8
+1984,Africa,Chad,Wine,0.04
+1986,Africa,Burundi,Spirits,0
+1984,Africa,Namibia,Wine,0
+1984,Europe,Portugal,Beer,2.46
+1986,Africa,Liberia,Spirits,3.82
+1986,Americas,Dominican Republic,Wine,0.06
+1985,Americas,Colombia,Other,0
+1989,Americas,Dominican Republic,Beer,1.54
+1984,Europe,Netherlands,Beer,5.21
+1985,Africa,Seychelles,Beer,2.21
+1986,Africa,Angola,Other,0
+1986,Africa,Central African Republic,Wine,0.36
+1986,Americas,Saint Lucia,Spirits,6.62
+1989,Americas,Mexico,Spirits,1.48
+1986,Western Pacific,Malaysia,Other,
+1986,South-East Asia,Democratic People's Republic of Korea,Other,
+1985,Americas,Canada,Beer,4.94
+1989,Europe,Portugal,Spirits,0.92
+1989,Africa,Benin,Wine,0.09
+1989,Europe,Ukraine,Spirits,2.68
+1989,Americas,El Salvador,Beer,0.81
+1986,Europe,Czech Republic,Other,
+1984,Africa,Burkina Faso,Spirits,0.03
+1986,South-East Asia,Thailand,Wine,0
+1986,Europe,Israel,Spirits,0.72
+1986,Europe,Israel,Wine,0.61
+1986,Africa,Botswana,Spirits,0.23
+1986,Americas,Honduras,Wine,0.02
+1989,Western Pacific,Philippines,Wine,0
+1986,Africa,Rwanda,Other,5.95
+1985,Europe,Kyrgyzstan,Other,0
+1984,South-East Asia,India,Other,0
+1986,Europe,France,Other,0.25
+1984,Western Pacific,Australia,Other,0
+1987,Americas,Cuba,Spirits,2.39
+1989,Europe,Netherlands,Spirits,2.35
+1985,Europe,Russian Federation,Wine,1.65
+1986,Africa,Mauritius,Other,0
+1987,Americas,Argentina,Wine,10.1
+1984,Africa,Lesotho,Other,1.49
+1987,Americas,Canada,Wine,1.3
+1984,Europe,Russian Federation,Beer,1.55
+1986,Africa,Niger,Other,0
+1989,Africa,Mozambique,Spirits,0.17
+1987,Eastern Mediterranean,Yemen,Other,
+1989,Africa,Angola,Wine,0.82
+1989,Africa,Togo,Other,0.02
+1987,South-East Asia,Thailand,Spirits,2.45
+1987,Americas,Bolivia (Plurinational State of),Wine,0.1
+1985,Europe,Malta,Wine,1.17
+1989,South-East Asia,Democratic People's Republic of Korea,Other,
+1986,Americas,Bolivia (Plurinational State of),Wine,0.09
+1985,Americas,Venezuela (Bolivarian Republic of),Beer,4.04
+1986,Africa,Guinea,Other,
+1985,Africa,Zimbabwe,Wine,0.04
+1987,Americas,Peru,Spirits,3.45
+1987,Eastern Mediterranean,Egypt,Other,
+1984,Europe,Poland,Beer,1.78
+1986,Europe,United Kingdom of Great Britain and Northern Ireland,Other,0
+1987,Europe,Italy,Other,
+1987,Americas,Venezuela (Bolivarian Republic of),Wine,0.14
+1989,Europe,Portugal,Other,0.72
+1986,Europe,Malta,Spirits,2.03
+1987,South-East Asia,Sri Lanka,Other,0
+1989,Americas,Cuba,Spirits,2.45
+1989,Europe,Netherlands,Wine,2.45
+1987,Africa,Botswana,Other,1.66
+1989,South-East Asia,Nepal,Spirits,0
+1989,Africa,Togo,Spirits,0.29
+1989,Western Pacific,Singapore,Spirits,0.51
+1987,Americas,Suriname,Spirits,1.12
+1989,Europe,Slovenia,Spirits,2.69
+1989,Europe,Lithuania,Other,
+1986,Europe,Spain,Wine,6.65
+1987,Americas,Trinidad and Tobago,Beer,2.03
+1986,Europe,Greece,Beer,2.2
+1989,Americas,Peru,Other,0
+1989,Americas,Nicaragua,Beer,0.7
+1984,Africa,Botswana,Beer,1.77
+1986,Americas,United States of America,Beer,5.07
+1986,Eastern Mediterranean,Morocco,Spirits,0.06
+1987,Europe,Turkey,Spirits,0.48
+1985,Western Pacific,Philippines,Wine,0
+1989,Americas,Ecuador,Beer,1.59
+1987,Africa,Burundi,Spirits,0
+1984,Europe,Latvia,Wine,2.59
+1984,Europe,Malta,Wine,1.26
+1986,Americas,Uruguay,Beer,1.38
+1984,Africa,Mali,Beer,0.01
+1986,Western Pacific,Mongolia,Wine,0
+1984,Europe,Bulgaria,Wine,3.28
+1984,South-East Asia,Democratic People's Republic of Korea,Other,
+1985,Western Pacific,Malaysia,Wine,0.02
+1989,Africa,Swaziland,Wine,0
+1989,Europe,Sweden,Spirits,2.25
+1987,Eastern Mediterranean,United Arab Emirates,Other,0
+1985,Western Pacific,Australia,Other,0
+1986,Africa,Seychelles,Spirits,0.62
+1985,Eastern Mediterranean,Qatar,Beer,0.12
+1986,Africa,Swaziland,Spirits,1.32
+1985,Africa,Seychelles,Spirits,0.63
+1985,Western Pacific,Kiribati,Wine,0.04
+1984,Africa,Eritrea,Beer,0.16
+1989,Western Pacific,Singapore,Other,0.06
+1985,Africa,Guinea-Bissau,Spirits,0.79
+1989,Western Pacific,Malaysia,Spirits,0.16
+1985,Africa,United Republic of Tanzania,Wine,0
+1986,South-East Asia,Democratic People's Republic of Korea,Wine,0
+1984,Europe,Italy,Wine,11.2
+1989,Europe,Bulgaria,Other,0
+1989,Africa,Niger,Beer,0.08
+1984,Africa,Liberia,Other,
+1989,Americas,Trinidad and Tobago,Spirits,2.32
+1985,Africa,Liberia,Wine,0.02
+1984,Americas,Ecuador,Other,0
+1986,Africa,Guinea-Bissau,Wine,0.04
+1986,Americas,Venezuela (Bolivarian Republic of),Spirits,3.7
+1985,Americas,Jamaica,Spirits,1
+1985,Africa,Togo,Beer,2.07
+1989,Western Pacific,Cambodia,Beer,0
+1989,Africa,Democratic Republic of the Congo,Other,1.66
+1986,Europe,Iceland,Wine,1.03
+1984,Europe,Finland,Wine,0.85
+1984,Africa,Zimbabwe,Wine,0.05
+1985,Africa,Comoros,Wine,0.05
+1984,Europe,Iceland,Beer,1.17
+1984,Africa,South Africa,Other,1.84
+1989,Western Pacific,Australia,Other,0
+1985,Eastern Mediterranean,Bahrain,Beer,1.26
+1986,Europe,Netherlands,Spirits,2.72
+1987,Americas,Dominican Republic,Wine,0.03
+1985,Eastern Mediterranean,Somalia,Spirits,0
+1986,Africa,Benin,Wine,0.12
+1989,Europe,Finland,Spirits,1.8
+1987,Americas,Mexico,Beer,3.05
+1985,Western Pacific,China,Wine,0.02
+1986,Eastern Mediterranean,Kuwait,Other,
+1984,Americas,United States of America,Other,
+1989,Americas,Peru,Wine,0.11
+1989,Europe,Cyprus,Spirits,3.49
+1986,South-East Asia,Bhutan,Wine,0
+1989,Africa,Mali,Other,0.58
+1989,Africa,Burkina Faso,Wine,0.01
+1986,Western Pacific,China,Beer,0.24
+1984,Americas,Belize,Wine,0.15
+1986,Americas,Ecuador,Spirits,1.08
+1986,Americas,Chile,Wine,5.14
+1985,Europe,Germany,Wine,3.66
+1984,Africa,Niger,Beer,0.11
+1986,Europe,Austria,Spirits,1.8
+1985,Americas,Antigua and Barbuda,Beer,1.69
+1986,Europe,Cyprus,Other,0
+1986,Africa,Cameroon,Wine,0.08
+1984,Eastern Mediterranean,Sudan,Other,0
+1986,Western Pacific,Mongolia,Spirits,2.47
+1985,Americas,Ecuador,Spirits,1.05
+1985,Eastern Mediterranean,Djibouti,Wine,0.52
+1987,Africa,Kenya,Other,0.59
+1989,Eastern Mediterranean,Iraq,Other,0
+1984,Americas,Nicaragua,Spirits,2.32
+1984,Europe,Portugal,Wine,13.5
+1984,Africa,Algeria,Other,0
+1986,Europe,Norway,Wine,0.83
+1987,Africa,Mauritania,Beer,0
+1985,Africa,Sierra Leone,Wine,0.01
+1984,Western Pacific,Cambodia,Beer,0
+1989,Americas,Antigua and Barbuda,Beer,1.83
+1984,Americas,Dominican Republic,Spirits,2.53
+1984,Eastern Mediterranean,United Arab Emirates,Other,0
+1987,Americas,Panama,Beer,3.19
+1985,Americas,Guatemala,Other,0
+1989,Eastern Mediterranean,Syrian Arab Republic,Beer,0.07
+1984,Africa,Rwanda,Wine,0.01
+1987,South-East Asia,India,Beer,0.01
+1987,Americas,El Salvador,Beer,0.9
+1987,Africa,Cameroon,Other,3.97
+1986,Africa,Central African Republic,Other,1.14
+1989,Americas,Antigua and Barbuda,Spirits,1.56
+1989,Americas,Ecuador,Spirits,0.92
+1984,Africa,Botswana,Wine,0.95
+1989,Eastern Mediterranean,Pakistan,Spirits,0
+1985,Eastern Mediterranean,Iran (Islamic Republic of),Wine,0
+1984,Americas,Belize,Beer,1.65
+1986,Africa,Democratic Republic of the Congo,Wine,0
+1984,Western Pacific,Brunei Darussalam,Wine,0.94
+1984,Africa,Eritrea,Other,0.39
+1986,Eastern Mediterranean,Afghanistan,Spirits,0
+1987,Europe,Hungary,Wine,3.32
+1989,Americas,Colombia,Other,0
+1989,Americas,Saint Lucia,Beer,2.36
+1989,Europe,Hungary,Wine,3.44
+1986,Eastern Mediterranean,Iraq,Other,0
+1989,Europe,France,Other,0.27
+1984,Americas,Venezuela (Bolivarian Republic of),Beer,5.27
+1984,Europe,Germany,Wine,3.7
+1989,South-East Asia,Democratic People's Republic of Korea,Spirits,3.34
+1986,Eastern Mediterranean,Somalia,Spirits,0
+1987,Africa,Mauritius,Beer,1.57
+1987,Eastern Mediterranean,Qatar,Spirits,1.3
+1989,Americas,Saint Lucia,Other,0.09
+1989,Western Pacific,Malaysia,Beer,0.52
+1989,Americas,Brazil,Beer,2.89
+1987,Americas,Uruguay,Beer,1.41
+1985,Western Pacific,Micronesia (Federated States of),Other,0
+1987,Americas,Trinidad and Tobago,Other,0
+1984,Africa,Liberia,Spirits,2.96
+1984,Europe,Netherlands,Spirits,2.95
+1987,Western Pacific,Papua New Guinea,Wine,0.04
+1989,Eastern Mediterranean,Morocco,Other,0
+1989,Eastern Mediterranean,Bahrain,Other,0
+1985,Western Pacific,Brunei Darussalam,Wine,0.51
+1984,Western Pacific,Lao People's Democratic Republic,Other,
+1989,Africa,Algeria,Beer,0.16
+1989,Europe,Israel,Other,0
+1984,Africa,Madagascar,Spirits,0.8
+1989,Europe,Malta,Beer,3.08
+1984,Africa,Zimbabwe,Spirits,5.68
+1985,Africa,Guinea,Spirits,0
+1986,Africa,Malawi,Wine,0
+1986,Eastern Mediterranean,Yemen,Spirits,0.06
+1985,Eastern Mediterranean,Sudan,Wine,0
+1986,Africa,Kenya,Spirits,0.85
+1986,Africa,South Africa,Spirits,2.06
+1989,Europe,Greece,Other,0.07
+1985,Africa,Cabo Verde,Spirits,0.46
+1987,Western Pacific,Brunei Darussalam,Beer,2.5
+1986,Africa,Namibia,Spirits,0
+1986,Eastern Mediterranean,Egypt,Other,
+1989,Western Pacific,Lao People's Democratic Republic,Wine,1.13
+1984,South-East Asia,Myanmar,Spirits,0.28
+1984,Africa,Guinea-Bissau,Spirits,0.8
+1987,Americas,United States of America,Other,
+1989,Europe,Croatia,Spirits,2.95
+1989,Europe,Turkey,Wine,0.07
+1984,Western Pacific,Philippines,Spirits,2.83
+1987,Americas,Guatemala,Beer,0.82
+1987,Africa,Central African Republic,Other,1.15
+1984,Eastern Mediterranean,Egypt,Beer,0.06
+1984,Africa,Sierra Leone,Other,4.44
+1986,Western Pacific,Papua New Guinea,Beer,1.15
+1984,Western Pacific,Mongolia,Wine,0
+1984,Africa,Sao Tome and Principe,Beer,0
+1984,Eastern Mediterranean,Tunisia,Beer,0.47
+1984,Americas,Venezuela (Bolivarian Republic of),Wine,0.12
+1989,South-East Asia,Bhutan,Beer,0.31
+1984,Eastern Mediterranean,United Arab Emirates,Wine,0.15
+1987,Africa,Malawi,Beer,0.08
+1987,Europe,Lithuania,Wine,
+1984,Western Pacific,Japan,Spirits,3.03
+1987,Europe,Latvia,Wine,1.05
+1987,Africa,Burkina Faso,Other,3.67
+1986,Western Pacific,Brunei Darussalam,Wine,0.1
+1989,Africa,Ghana,Spirits,0.02
+1986,Americas,Mexico,Beer,2.97
+1984,Europe,Sweden,Wine,1.55
+1985,Americas,Dominican Republic,Spirits,2.28
+1987,Europe,Netherlands,Other,0
+1986,Africa,Cameroon,Beer,2.45
+1989,Africa,Mauritania,Wine,0
+1986,Eastern Mediterranean,Pakistan,Wine,0
+1985,Americas,Trinidad and Tobago,Wine,0.16
+1986,Africa,Congo,Spirits,0.32
+1987,Americas,Brazil,Wine,0.35
+1984,Western Pacific,Singapore,Beer,1.02
+1987,Americas,Guyana,Wine,0
+1986,Africa,Cabo Verde,Other,
+1985,Europe,Malta,Other,0.03
+1986,Europe,Russian Federation,Spirits,2.46
+1989,Africa,Cameroon,Other,4.08
+1986,Europe,Portugal,Other,0.93
+1984,Europe,Romania,Wine,4.11
+1986,Americas,El Salvador,Other,
+1989,Europe,Czech Republic,Wine,1.95
+1986,Africa,Zimbabwe,Other,1.39
+1989,Americas,Bahamas,Beer,3.33
+1989,Africa,Gabon,Spirits,0.42
+1986,South-East Asia,Sri Lanka,Beer,0.04
+1989,Eastern Mediterranean,Djibouti,Wine,0.27
+1984,Eastern Mediterranean,Yemen,Beer,0.15
+1984,South-East Asia,Nepal,Beer,0.02
+1987,Western Pacific,Samoa,Beer,3.11
+1987,Africa,Sao Tome and Principe,Other,0
+1986,Eastern Mediterranean,Egypt,Spirits,0.31
+1986,Western Pacific,Lao People's Democratic Republic,Other,
+1985,Africa,Malawi,Beer,0.19
+1987,Africa,Cameroon,Spirits,0.02
+1989,Africa,Equatorial Guinea,Spirits,0
+1989,Eastern Mediterranean,Oman,Other,0
+1986,Africa,Burkina Faso,Wine,0.02
+1985,Eastern Mediterranean,Pakistan,Beer,0.01
+1987,Eastern Mediterranean,Yemen,Beer,0.11
+1987,Americas,Uruguay,Wine,3.85
+1989,Africa,Algeria,Spirits,0.01
+1985,Africa,Eritrea,Beer,0.15
+1984,Western Pacific,Philippines,Beer,1.32
+1989,Eastern Mediterranean,Kuwait,Beer,0
+1985,Africa,Cameroon,Wine,0.09
+1987,Americas,Belize,Other,0.02
+1985,Western Pacific,Mongolia,Beer,0.36
+1989,Africa,Niger,Spirits,0.01
+1985,Americas,Guyana,Spirits,4.73
+1986,Africa,Guinea-Bissau,Other,1.17
+1985,Africa,Mauritania,Beer,0.01
+1987,Western Pacific,Solomon Islands,Other,0
+1985,Eastern Mediterranean,Yemen,Beer,0.22
+1986,Africa,Rwanda,Beer,0.9
+1986,Africa,Nigeria,Spirits,0
+1984,Africa,Ethiopia,Spirits,0
+1985,Africa,Sao Tome and Principe,Spirits,0.01
+1986,Europe,Denmark,Wine,2.66
+1984,Western Pacific,Cambodia,Other,
+1986,Eastern Mediterranean,Sudan,Other,0
+1984,Africa,Uganda,Beer,0.1
+1987,Africa,Equatorial Guinea,Beer,0.33
+1984,Africa,Nigeria,Wine,0
+1985,Eastern Mediterranean,Kuwait,Spirits,0
+1984,Western Pacific,Viet Nam,Beer,0.13
+1984,Americas,Saint Lucia,Other,0.1
+1986,Africa,Eritrea,Other,0.22
+1987,Europe,Netherlands,Wine,2.48
+1984,Europe,Lithuania,Spirits,
+1986,Europe,Germany,Other,
+1987,Africa,Malawi,Spirits,0.28
+1985,Americas,El Salvador,Other,
+1987,Eastern Mediterranean,Syrian Arab Republic,Beer,0.07
+1987,Africa,Rwanda,Spirits,0.01
+1985,Americas,Nicaragua,Beer,0.74
+1984,Africa,United Republic of Tanzania,Other,6.14
+1984,Western Pacific,Samoa,Beer,1.56
+1985,Europe,Germany,Spirits,2.82
+1989,Africa,Comoros,Beer,0.01
+1986,Western Pacific,Australia,Beer,7.39
+1985,Western Pacific,Fiji,Spirits,0.04
+1985,Western Pacific,Philippines,Other,0.12
+1985,Eastern Mediterranean,Lebanon,Other,0
+1984,Europe,Turkey,Wine,0.07
+1986,Africa,Congo,Other,2.75
+1987,Eastern Mediterranean,Saudi Arabia,Beer,0.21
+1989,Western Pacific,Micronesia (Federated States of),Spirits,0
+1987,Americas,Guatemala,Wine,0.01
+1986,Africa,Namibia,Other,0.26
+1986,Europe,Russian Federation,Other,0.88
+1987,Eastern Mediterranean,United Arab Emirates,Beer,0.61
+1987,Eastern Mediterranean,Jordan,Spirits,0.15
+1985,Europe,Kyrgyzstan,Spirits,4.38
+1985,Americas,Peru,Wine,0.11
+1986,Europe,Ukraine,Beer,1.34
+1987,Western Pacific,China,Spirits,2.82
+1989,Africa,Burundi,Wine,0.01
+1984,Americas,Chile,Beer,1.09
+1984,Eastern Mediterranean,Egypt,Wine,0.01
+1984,Europe,Spain,Beer,3.87
+1987,Africa,Eritrea,Spirits,0
+1985,Africa,Central African Republic,Beer,1.21
+1984,Eastern Mediterranean,Saudi Arabia,Other,0
+1984,Europe,Belgium,Wine,3.11
+1989,South-East Asia,Myanmar,Wine,0
+1984,Americas,United States of America,Wine,1.4
+1987,Africa,Sao Tome and Principe,Wine,1.89
+1987,Africa,Chad,Wine,0.02
+1987,Africa,Nigeria,Spirits,0.01
+1985,Africa,Cabo Verde,Wine,1.39
+1989,Africa,Cabo Verde,Spirits,0.56
+1987,Europe,Bulgaria,Beer,4.2
+1987,Europe,Kyrgyzstan,Other,0
+1985,Africa,Gambia,Beer,0.06
+1989,Americas,Guyana,Wine,0
+1986,Western Pacific,Viet Nam,Other,
+1987,Africa,Cte d'Ivoire,Beer,0.34
+1985,Americas,Honduras,Beer,0.94
+1984,Western Pacific,China,Spirits,2.19
+1987,Europe,Czech Republic,Beer,6.93
+1987,Africa,Mauritius,Spirits,1.72
+1984,Europe,United Kingdom of Great Britain and Northern Ireland,Spirits,2.01
+1989,Eastern Mediterranean,Qatar,Beer,0.09
+1987,Africa,South Africa,Wine,1.69
+1985,Europe,Portugal,Beer,2.49
+1985,Americas,Saint Lucia,Other,0.1
+1986,Africa,Mauritania,Beer,0
+1985,Europe,Portugal,Other,1.08
+1985,South-East Asia,Nepal,Beer,0.01
+1987,Eastern Mediterranean,Somalia,Beer,0.01
+1987,Western Pacific,Mongolia,Beer,0.19
+1985,Europe,Spain,Wine,6.86
+1986,Europe,Spain,Beer,3.99
+1984,Europe,Netherlands,Wine,2.6
+1987,Africa,Niger,Other,0
+1984,Africa,United Republic of Tanzania,Spirits,0.14
+1987,Americas,Peru,Wine,0.11
+1984,South-East Asia,Bangladesh,Wine,0
+1985,Europe,Israel,Spirits,0.79
+1987,South-East Asia,Indonesia,Beer,0.03
+1984,Africa,Malawi,Wine,0.01
+1984,Europe,Latvia,Beer,2.01
+1986,Africa,Burundi,Beer,2.96
+1987,Eastern Mediterranean,Sudan,Spirits,0.25
+1987,Americas,Mexico,Other,0.08
+1987,Eastern Mediterranean,Saudi Arabia,Wine,0
+1984,Africa,Equatorial Guinea,Other,
+1987,Americas,Honduras,Other,
+1985,Eastern Mediterranean,Oman,Other,0
+1984,Europe,Romania,Other,
+1984,Western Pacific,Kiribati,Wine,0.04
+1984,Eastern Mediterranean,Afghanistan,Beer,0
+1984,Western Pacific,Vanuatu,Other,
+1985,Europe,Belarus,Beer,
+1985,Europe,Latvia,Spirits,6.55
+1987,Africa,United Republic of Tanzania,Wine,0
+1986,South-East Asia,Indonesia,Spirits,0.04
+1986,Eastern Mediterranean,Libya,Other,0
+1987,Africa,Cabo Verde,Other,
+1989,Africa,Rwanda,Wine,0.01
+1989,Africa,Botswana,Wine,0.16
+1987,Eastern Mediterranean,Afghanistan,Spirits,0
+1984,Western Pacific,Malaysia,Beer,0.5
+1987,Europe,Denmark,Beer,7.17
+1987,Americas,Colombia,Spirits,2.32
+1989,Western Pacific,Mongolia,Beer,0.24
+1984,Africa,Democratic Republic of the Congo,Beer,0.43
+1984,Europe,Greece,Other,0.07
+1987,Western Pacific,Mongolia,Spirits,1.91
+1984,Americas,United States of America,Beer,5.22
+1986,Africa,Cte d'Ivoire,Beer,0.36
+1984,Americas,Saint Kitts and Nevis,Wine,0.23
+1986,Eastern Mediterranean,Syrian Arab Republic,Spirits,0.11
+1989,Africa,Comoros,Other,
+1984,Africa,Mauritania,Other,0
+1987,Africa,Sao Tome and Principe,Beer,0
+1984,Europe,Turkey,Spirits,0.49
+1986,Africa,Lesotho,Other,1.05
+1987,South-East Asia,Bangladesh,Spirits,0
+1989,South-East Asia,Myanmar,Beer,0.02
+1989,Africa,Zimbabwe,Other,1.51
+1989,Europe,Spain,Spirits,3.5
+1987,Africa,Botswana,Spirits,0.18
+1986,Americas,Panama,Spirits,1.97
+1986,South-East Asia,Myanmar,Beer,0.01
+1985,South-East Asia,Nepal,Other,0
+1984,Western Pacific,Solomon Islands,Beer,0.98
+1987,Americas,Venezuela (Bolivarian Republic of),Spirits,3.88
+1986,Europe,Turkey,Other,0
+1986,Western Pacific,Philippines,Other,0.08
+1986,Europe,Hungary,Other,
+1989,Europe,Latvia,Other,0
+1984,Eastern Mediterranean,Qatar,Spirits,2.04
+1984,Europe,Czech Republic,Wine,2.24
+1986,Eastern Mediterranean,Somalia,Other,0
+1989,Americas,Venezuela (Bolivarian Republic of),Spirits,3.55
+1987,Africa,Namibia,Beer,0
+1986,Europe,Iceland,Other,0.01
+1987,Western Pacific,Viet Nam,Other,
+1984,Africa,Sierra Leone,Spirits,0.03
+1985,Europe,Norway,Spirits,1.77
+1984,Europe,Belarus,Other,
+1987,Africa,South Africa,Other,1.69
+1985,Eastern Mediterranean,Sudan,Spirits,0.25
+1987,Europe,Finland,Spirits,1.85
+1987,Western Pacific,Malaysia,Beer,0.45
+1986,Americas,Costa Rica,Beer,0.85
+1985,Americas,Argentina,Wine,10.45
+1989,Africa,Kenya,Wine,0
+1985,Africa,Sierra Leone,Spirits,0.03
+1987,Europe,Switzerland,Spirits,2.41
+1987,Africa,Malawi,Other,0.75
+1989,Americas,Bahamas,Wine,1.5
+1985,Africa,Malawi,Spirits,0.31

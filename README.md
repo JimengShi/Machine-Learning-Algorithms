@@ -12,7 +12,7 @@
 ## Codes
 - Read and run the responding codes in `codes` folder.
 
-#### 
+#### Demo Codes
 <div align="center">
 <img src="https://github.com/JimengShi/Machine-Learning-Algorithms/blob/master/images/demo_code.png" alt="demo" >
 </div>
